@@ -1,3 +1,5 @@
+rebuild: clean build
+
 clean:
 	rm -rf ./build
 
